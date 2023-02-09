@@ -1,0 +1,17 @@
+{
+  "name": "transactions-bank-of-flatiron",
+  "version": "1.0.0",
+  "description": "A transactions database",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "json-server,heroku, node, REST API"
+  ],
+  "author": "Erick Ochieng",
+  "license": "MIT",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
